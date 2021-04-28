@@ -1,0 +1,2 @@
+# Модель колеса лоренца
+В данном репозитории расположена лабаторная работа из курса дифференциальных уравнений Университета ИТМО по теме модели водяного колеса и аттрактора Лоренца. [Ipython notebook](https://github.com/Kuleshovegor/Lorenz-mill-model/blob/master/Lorenz_mill.ipynb) с лабораторной работой и [код](https://github.com/Kuleshovegor/Lorenz-mill-model/blob/master/Lorenz_mill_model.py) модели на python.
